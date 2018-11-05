@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1450298726 source:d:\programming\Ñ++\game_pikabu_post\render_system\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	"renderSystem.h"
+	"input.h"
+
+1449453234 source:d:\programming\Ñ++\game_pikabu_post\render_system\rendersystem.cpp
+	"renderSystem.h"
+	<stdio.h>
+	<windows.h>
+
+1449451931 d:\programming\Ñ++\game_pikabu_post\render_system\rendersystem.h
+	"consoleColor.h"
+
+1448829717 d:\programming\Ñ++\game_pikabu_post\render_system\consolecolor.h
+
+1449453803 d:\programming\Ñ++\game_pikabu_post\render_system\input.h
+	<windows.h>
+
